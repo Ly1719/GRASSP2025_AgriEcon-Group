@@ -1,0 +1,143 @@
+	<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="START" href="http://www.env.go.jp/index.html" />
+<title>環境省_令和7年版　環境・循環型社会・生物多様性白書（PDF版）</title>
+<meta http-equiv="Content-Language" content="ja" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="viewport" content="width=740,user-scalable=yes" />
+<link rel="stylesheet" type="text/css" href="https://www.env.go.jp/common/css/template.css" />
+<link rel="stylesheet" type="text/css" href="https://www.env.go.jp/common/css/contents.css" />
+<link rel="stylesheet" type="text/css" href="https://www.env.go.jp/common/css/menu_home.css" />
+<link rel="stylesheet" href="https://www.env.go.jp/common/css/flexslider.css" type="text/css" />
+<link rel="stylesheet" href="https://www.env.go.jp/common/css/myflexslider.css" type="text/css" />
+
+<style type="text/css">
+<!--
+*       { margin: 0; paddign: 0; }
+body  { line-height: 1.4; background-color: #fff; color: #000; font-family: sans-serif; }
+#wrapper { text-align: left; width: 92%; margin: 0 auto; min-width: 740px; max-width: 940px; }
+#content { }
+h1      { font-size: 180%; font-weight: bold }
+h2      { font-size: 130%; font-weight: normal; margin: 15px 0 4px; border-bottom: 1px solid #999; }
+h2 span { font-size: 130%; }
+h3      { font-size: 130%; font-weight: normal; margin: 15px 0 2px; }
+h4      { font-size: 130%; font-weight: normal; }
+p, dl, dd   { font-size: 130%; margin-left: 1em; }
+.topic-path  { font-size: 100%; margin: 5px 0; }
+.ttp { font-size: 100%; text-align: right; }
+a:link    { color: #03c; }
+a:visited { color: #801070; }
+a:hover   { color: #cc1020; }
+a:active  { color: #ee0000; }
+-->
+</style>
+</head>
+
+<body>
+
+<!-- FROM HEADER -->
+<div id="header" class="wrapper">
+  <div class="container">
+    <div id="ci">
+
+      <a href="https://www.env.go.jp/"><img src="https://www.env.go.jp/common/img/logo.svg" height="65" width="175" alt="環境省 Ministry of the Environment" /></a>
+
+    </div>
+    <ul id="info_menu">
+      <li><a href="#content">本文へ</a></li>
+      <li><a href="http://www.zoomsight-sv2.jp/ENV/controller/index.html#http://www.env.go.jp/">音声読み上げ・文字拡大</a></li>
+      <li><a href="https://www.env.go.jp/info/mado.html">各種窓口案内</a></li>
+      <li><a href="https://www.env.go.jp/sitemap.html">サイトマップ</a></li>
+    </ul>
+    <ul id="lang_menu">
+      <li class="menu_ja"><a href="https://www.env.go.jp/index.html">日本語</a></li>
+      <li class="menu_en" lang="en" xml:lang="en"><a href="https://www.env.go.jp/en/index.html">English</a></li>
+    </ul>
+  </div>
+</div>
+
+<div id="wrapper">
+<!--<a href="#content">本文へ</a>-->
+<p class="topic-path" id="PAGETOP"><a href="http://www.env.go.jp/">環境省</a>＞<a href="http://www.env.go.jp/policy/hakusyo/">環境白書・循環型社会白書・生物多様性白書</a></p>
+<h1>令和7年版 環境・循環型社会・生物多様性白書（PDF版）</h1>
+<hr />
+<div id="content">
+<h2><a href="pdf/full.pdf">全体版 [PDF 19.05MB]</a></h2>
+<h2>分割版</h2>
+<h3><a href="pdf/0_maetsuki_contents.pdf">前付・目次 [PDF 2,774KB]</a></h3>
+
+<h3>令和6年度　環境の状況<br />
+  令和6年度　循環型社会の形成の状況<br />
+  令和6年度　生物の多様性の状況</h3>
+
+<h3>第1部　総合的な施策等に関する報告</h3>
+
+<p>
+	<a href="pdf/1_1.pdf">第1章　「市場」～環境とビジネス～ [PDF 3,329KB]</a><br />
+	<a href="pdf/1_2.pdf">第2章　「政府」～循環経済・自然再興・炭素中立の統合に向けた取組～ [PDF 3,749KB]</a><br />
+	<a href="pdf/1_3.pdf">第3章　「国民」～地域・暮らしでの環境・経済・社会の統合的向上の実践・実装～ [PDF 4,969KB]</a><br />
+	<a href="pdf/1_4.pdf">第4章　東日本大震災・能登半島地震からの復興・創生 [PDF 2,758KB]</a><br />
+</p>
+
+<h3>第2部　各分野の施策等に関する報告</h3>
+
+<p>
+	<a href="pdf/2_1.pdf">第1章　地球環境の保全 [PDF 2,153KB]</a><br />
+	<a href="pdf/2_2.pdf">第2章　生物多様性の保全及び持続可能な利用に関する取組 [PDF 5,894KB]</a><br />
+  　［分割版］<a href="pdf/2_2_01.pdf">1 [PDF 1,755KB]</a> ／ 
+		<a href="pdf/2_2_02.pdf">2 [PDF 5,308KB]</a> ／ 
+		<a href="pdf/2_2_03.pdf">3 [PDF 2,130KB]</a><br />
+	<a href="pdf/2_3.pdf">第3章　循環型社会の形成 [PDF 3,866KB]</a><br />
+	<a href="pdf/2_4.pdf">第4章　水環境、土壌環境、海洋環境、大気環境の保全・再生に関する取組 [PDF 3,539KB]</a><br />
+	<a href="pdf/2_5.pdf">第5章　包括的な化学物質対策に関する取組 [PDF 2,117KB]</a><br />
+	<a href="pdf/2_6.pdf">第6章　各種施策の基盤となる施策及び国際的取組に係る施策 [PDF 2,011KB]</a>
+</p>
+
+<h3>令和7年度　環境の保全に関する施策<br />
+令和7年度　循環型社会の形成に関する施策<br />
+令和7年度　生物の多様性の保全及び持続可能な利用に関する施策</h3>
+
+<p>
+	<a href="pdf/3_1.pdf">第1章　地球環境の保全 [PDF 1,287KB]</a><br />
+	<a href="pdf/3_2.pdf">第2章　生物多様性の保全及び持続可能な利用に関する取組 [PDF 1,309KB]</a><br />
+	<a href="pdf/3_3.pdf">第3章　循環型社会の形成 [PDF 1,177KB]</a><br />
+	<a href="pdf/3_4.pdf">第4章　水環境、土壌環境、海洋環境、大気環境の保全・再生に関する取組 [PDF 1,295KB]</a><br />
+	<a href="pdf/3_5.pdf">第5章　包括的な化学物質対策に関する取組 [PDF 1,170KB]</a><br />
+	<a href="pdf/3_6.pdf">第6章　各種施策の基盤となる施策及び国際的取組に係る施策 [PDF 1,322KB]</a>
+</p>
+
+
+<p class="ttp"><a href="#PAGETOP">ページのトップへ</a></p><br />
+</div><!--content end-->
+</div><!--wrapper end-->
+
+<!-- FROM FOOTER -->
+<div id="footer" class="wrapper">
+  <div class="container">
+    <div id="footer_inner">
+      <div class="env-logo"><img src="https://www.env.go.jp/common/img/logo_footer.png" height="56" width="56" alt="環境省" /></div>
+      <div class="copyright">
+        <p>環境省（法人番号1000012110001）</p>
+        <p>〒100-8975 東京都千代田区霞が関1-2-2 中央合同庁舎5号館 TEL 03-3581-3351(代表)<a href="https://www.env.go.jp/annai/map.html">地図・交通案内</a></p>
+        <ul>
+          <li><a href="https://www.env.go.jp/help.html">環境省ホームページについて</a></li>
+          <li><a href="https://www.env.go.jp/mail.html">著作権・リンクについて</a></li>
+          <li><a href="https://www.env.go.jp/privacy.html">プライバシーポリシー</a></li>
+          <li><a href="https://www.env.go.jp/link/index.html">環境関連リンク集</a></li>
+        </ul>
+        <p lang="en" xml:lang="en" class="caption">Copyright Ministry of the Environment Government of Japan. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END FOOTER -->
+
+</body>
+
+</html>
